@@ -11,7 +11,7 @@ export default function Page() {
         As a high school student with little knowledge in the realm of computer science, entering into the 
         tech scene has been eyeopening and inspiring. I would like to bring this experience to students all over.`}
       </p>
-      
+
       <p className="mb-4">
         {`🚧 please note that this site is still under construction...`}
       </p>
