@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'About trueGrand',
     description: 'An introduction',
-    url: baseUrl,
+    url: truegrand.org,
     siteName: 'About Me',
     locale: 'en_US',
     type: 'website',
