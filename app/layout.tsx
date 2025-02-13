@@ -16,9 +16,9 @@ export const metadata: Metadata = {
   },
   description: 'An introduction',
   openGraph: {
-    title: 'About trueGrand',
-    description: 'An introduction',
-    url: 'truegrand.org',
+    title: 'trueGrand',
+    description: 'To do Grand things, you gotta start with the little things.',
+    url: 'www.truegrand.org',
     siteName: 'About Me',
     locale: 'en_US',
     type: 'website',
@@ -53,6 +53,9 @@ export default function RootLayout({
         GeistMono.variable
       )}
     >
+      <head>
+        <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+      </head>
       <body className="antialiased max-w-xl mx-4 mt-8 lg:mx-auto">
         <main className="flex-auto min-w-0 mt-6 flex flex-col px-2 md:px-0">
           <Navbar />
