@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'trueGrand',
     description: 'To do Grand things, you gotta start with the little things.',
-    url: 'www.truegrand.org',
+    url: 'https://truegrand.org',
     siteName: 'About Me',
     locale: 'en_US',
     type: 'website',
